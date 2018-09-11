@@ -33,7 +33,7 @@ int main()
     biggest = num1;
   }
 
-  std::cout << "Of those two numbers, the biggest is: " << biggest << std::endl;
+  std::cout << "Of those two numbers, the biggest is: " << biggest;
 
   //print out the variable representing the biggest number
 
